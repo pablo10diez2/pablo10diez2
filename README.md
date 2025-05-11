@@ -2,6 +2,9 @@
 
 **Computer Engineering student at the University of Deusto**
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Izhikevich_-_Low_Resolution.gif/640px-Izhikevich_-_Low_Resolution.gif" width="200" />
+![Izhikevich Model](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Izhikevich_-_Low_Resolution.gif/640px-Izhikevich_-_Low_Resolution.gif)
+
+
 
 
 I enjoy **Neovim** and **GNU/Linux**  
