@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Pablo
 
 **Computer Engineering student at the University of Deusto**
-![Petrial Cube](https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrial_cube.gif)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrial_cube.gif" width="50" />
+
 
 
 I enjoy **Neovim** and **GNU/Linux**  
