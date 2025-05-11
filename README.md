@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pablo
 
 **Computer Engineering student at the University of Deusto**
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrial_cube.gif" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrial_cube.gif" width="60" />
 
 
 
