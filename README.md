@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Pablo</h1>
 
-<h3 align="center"><strong>Computer Engineering student at the University of Deusto</strong></h3><br><br>
+<h3 align="center"><strong>Computer Engineering student at the University of Deusto</strong></h3><br>
 
 <div align="center">
   <img src="https://github.com/pablo10diez2/pablo10diez2/blob/main/Izhikevich_-_Low_Resolution-ezgif.com-optimize.gif?raw=true" width="190" />
-</div>
+</div><br>
 
 <h3 align="center">I enjoy Neovim and GNU/Linux</h3>
 <table align="center">
