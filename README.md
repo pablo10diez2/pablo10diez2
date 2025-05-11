@@ -6,4 +6,4 @@
 <h3>I enjoy <strong>Neovim</strong> and <strong>GNU/Linux</strong></h3>
 <h3>I use <strong>Java</strong>, <strong>C</strong>, <strong>C++</strong>, and <strong>Python</strong></h3>
 
-<h3><blockquote><em>"KISS "Keep it simple stu***""</em></blockquote></h3>
+<h3><blockquote><em>"KISS "Keep it simple stu***"</em></blockquote></h3>
