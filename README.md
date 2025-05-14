@@ -6,7 +6,7 @@
   <img src="https://github.com/pablo10diez2/pablo10diez2/blob/main/Izhikevich_-_Low_Resolution-ezgif.com-optimize.gif?raw=true" width="190" />
 </div><br>
 
-<h3 align="center">I like Neovim and GNU/Linux</h3>
+<h3 align="center">I enjoy working with Neovim and GNU/Linux,</h3>
 <table align="center">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png" width="30" /></td>
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-<h3 align="center">and use C, C++, Java and Python.</h3>
+<h3 align="center">and I primarily use C, C++, Java and Python.</h3>
 <table align="center">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30" /></td>
