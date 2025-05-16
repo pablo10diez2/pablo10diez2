@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github.com/pablo10diez2/pablo10diez2/blob/main/Izhikevich_-_Low_Resolution-ezgif.com-optimize.gif?raw=true" width="150" />
-</div><br>
+</div>
 
 <h3 align="center">I enjoy working with Neovim and GNU/Linux,</h3>
 <table align="center">
