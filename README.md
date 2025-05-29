@@ -23,3 +23,11 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" /></td>
   </tr>
 </table>
+
+<h3 align="center">Check out my CTF writeups here:</h3>
+
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://pablo10diez2.github.io/webPablo/" target="_blank" rel="noopener noreferrer" style="font-size: 1.2em; font-weight: bold; text-decoration: none; color: #0366d6;">
+    https://pablo10diez2.github.io/webPablo/
+  </a>
+</div>
