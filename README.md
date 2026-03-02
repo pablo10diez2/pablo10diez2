@@ -12,16 +12,6 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="30" /></td>
   </tr>
 </table>
-
-<table align="center">
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30" /></td>
-
-    <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" width="30" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" /></td>
-  </tr>
-</table>
-
 <h3 align="center">Check out my CTF writeups here:</h3>
 
 <div align="center" style="margin-bottom: 20px;">
