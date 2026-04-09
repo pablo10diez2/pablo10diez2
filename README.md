@@ -3,7 +3,6 @@
 <table align="center">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/960px-ISO_C%2B%2B_Logo.svg.png" width="30" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="30" /></td>
   </tr>
 </table>
 <h3 align="center">Check out my CTF writeups here:</h3>
